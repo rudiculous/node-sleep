@@ -1,0 +1,9 @@
+{
+  "name": "@rdcl/sleep",
+  "version": "1.0.0",
+  "description": "A function which returns a promise that resolves after a certain amount of time.",
+  "main": "index.js",
+  "repository": "https://github.com/rudiculous/node-sleep.git",
+  "author": "Ruud van der Weide <rj@rdcl.nl>",
+  "license": "MIT"
+}
